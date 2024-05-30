@@ -1,2 +1,2 @@
 # BoardGame
-Geography Project
+Geography Project on Canadian human geography

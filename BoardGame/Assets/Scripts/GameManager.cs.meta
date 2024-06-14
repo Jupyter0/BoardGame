@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f2d42cc7e2bc4d144b4cb5e0a2c3e4b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tiles: {instanceID: 0}
+  - playerModel: {instanceID: 0}
+  - dice: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
